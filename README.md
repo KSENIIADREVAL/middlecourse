@@ -1,11 +1,13 @@
 # middlecourse
 Robocode middile web programming
 
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfCqHktbyW9vnWkQH3WXJaPL6zmqZd27uMNw&s)
+
 #Contributor Ksemiia Dreval 
 
 # This is my repository
 ### My name is Kseniia
-![my photo](https://user-images.githubusercontent.com/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpSBtgGtPiDfOXohGmNJXuMNR83sDh5UcesYiFqqzeDpi1nj_F6wJ7oEo&s.png)
+(https://user-images.githubusercontent.com/60629407/139448835-f652c6bd-02bf-4654-8e25-9d947acf7581.png)
 **I'm javascript developer.**
 *There is Example of my code:*
 ```javascript
