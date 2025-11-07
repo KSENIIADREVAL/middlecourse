@@ -1,24 +1,14 @@
 # middlecourse
 Robocode middile web programming
 
-![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfCqHktbyW9vnWkQH3WXJaPL6zmqZd27uMNw&s)
 
-#Contributor Ksemiia Dreval 
+
+#Contributor Kseniia Dreval 
 
 # This is my repository
 ### My name is Kseniia
-(https://user-images.githubusercontent.com/60629407/139448835-f652c6bd-02bf-4654-8e25-9d947acf7581.png)
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfCqHktbyW9vnWkQH3WXJaPL6zmqZd27uMNw&s)
 **I'm javascript developer.**
-*There is Example of my code:*
-```javascript
-let isAlive = true;
-do {
-}
-code();
-while(isAlive);
-function code() {
-alert('Hello world');
-This is Unordered list:
-* [my facebook](http://github.com)
-* [my website](http://github.com)
-* [my telegram](http://github.com)
+
+
+
